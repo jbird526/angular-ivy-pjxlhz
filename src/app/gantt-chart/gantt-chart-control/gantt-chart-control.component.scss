@@ -131,8 +131,13 @@ $alternate-row-background-color: #fafafa;
     text-align: center;
     padding: 0.5rem;
     margin-left: -5px;
-    margin-top: 5px;
+    margin-top: 20px;
     border-radius: 0.5rem;
+  }
+
+  .milestone-tooltip-text {
+    background: rgb(255, 176, 59);
+    color: black;
   }
 }
 
