@@ -134,3 +134,8 @@ $alternate-row-background-color: #fafafa;
     border-radius: 1rem;
   }
 }
+
+// Override the expanded row padding
+.container .gantt-chart-row .row-title {
+  padding: 0.1rem;
+}
