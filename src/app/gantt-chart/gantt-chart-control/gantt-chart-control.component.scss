@@ -140,3 +140,7 @@ $alternate-row-background-color: #fafafa;
 .container .gantt-chart-row .row-title {
   padding: 0.1rem;
 }
+
+.mat-expansion-panel:not([class*='mat-elevation-z']) {
+  box-shadow: none;
+}
