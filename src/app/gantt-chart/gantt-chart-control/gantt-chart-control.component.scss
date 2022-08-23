@@ -65,6 +65,7 @@ $alternate-row-background-color: #fafafa;
       // border-radius: 16px 16px 16px 16px;
       border-radius: 6px;
       text-align: center;
+      cursor: pointer;
 
       .event-name {
         color: white;
@@ -79,6 +80,7 @@ $alternate-row-background-color: #fafafa;
       position: absolute;
       font-size: 0.7rem;
       color: orange;
+      cursor: pointer;
     }
 
     .row-events {
