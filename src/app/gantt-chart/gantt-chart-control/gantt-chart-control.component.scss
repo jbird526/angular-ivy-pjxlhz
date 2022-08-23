@@ -62,7 +62,8 @@ $alternate-row-background-color: #fafafa;
       // height: 35%;
       height: 1.5em;
       position: absolute;
-      border-radius: 16px 16px 16px 16px;
+      // border-radius: 16px 16px 16px 16px;
+      border-radius: 6px;
       text-align: center;
 
       .event-name {
@@ -131,7 +132,7 @@ $alternate-row-background-color: #fafafa;
     padding: 0.5rem;
     margin-left: -5px;
     margin-top: 5px;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
   }
 }
 
