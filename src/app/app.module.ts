@@ -12,7 +12,7 @@ import { GanttChartModule } from './gantt-chart/gantt-chart.module';
 
 // import { MatExpansionModule } from '@angular/material/expansion';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MaterialsModule } from './materials.module';
+import { MaterialsModule } from '../materials.module';
 
 @NgModule({
   imports: [
